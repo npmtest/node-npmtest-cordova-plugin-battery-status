@@ -1,4 +1,7 @@
-# test coverage for  [cordova-plugin-battery-status (v1.2.3)](https://github.com/apache/cordova-plugin-battery-status#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-battery-status.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-battery-status) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-battery-status.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-battery-status)
+# npmtest-cordova-plugin-battery-status
+
+#### basic test coverage for  [cordova-plugin-battery-status (v1.2.3)](https://github.com/apache/cordova-plugin-battery-status#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-battery-status.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-battery-status) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-battery-status.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-battery-status)
+
 #### Cordova Battery Plugin
 
 [![NPM](https://nodei.co/npm/cordova-plugin-battery-status.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cordova-plugin-battery-status)
